@@ -1,0 +1,60 @@
+2019-09-09 14:40:57,145-alabs.icon.exe.log-INFO-vvargs.py:575-[5132] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-09-09 14:40:57,147-alabs.icon.exe.log-INFO-__init__.py:117-[5132] >>>starting...
+2019-09-09 14:40:57,248-alabs.icon.exe.log-INFO-__init__.py:128-[5132] >>>end...
+2019-09-09 14:54:13,994-alabs.icon.exe.log-INFO-vvargs.py:575-[7472] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-09-09 14:54:13,994-alabs.icon.exe.log-INFO-__init__.py:117-[7472] >>>starting...
+2019-09-09 14:54:14,041-alabs.icon.exe.log-INFO-__init__.py:128-[7472] >>>end...
+2019-12-26 19:20:18,913-alabs.icon.exe.log-INFO-vvargs.py:575-[9644] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-12-26 19:20:18,913-alabs.icon.exe.log-INFO-__init__.py:117-[9644] >>>starting...
+2019-12-26 19:20:19,033-alabs.icon.exe.log-INFO-__init__.py:128-[9644] >>>end...
+2019-12-26 19:20:49,802-alabs.icon.exe.log-INFO-vvargs.py:575-[12576] args={'config_file': 'icon.yaml',
+ 'css': None,
+ 'dumpspec': None,
+ 'errfile': None,
+ 'help': False,
+ 'infile': None,
+ 'logfile': None,
+ 'loglevel': None,
+ 'outfile': None,
+ 'output_file': 'icon.png',
+ 'statfile': None,
+ 'ttf': None,
+ 'verbose': 0}: opened
+2019-12-26 19:20:49,803-alabs.icon.exe.log-INFO-__init__.py:117-[12576] >>>starting...
+2019-12-26 19:20:49,820-alabs.icon.exe.log-INFO-__init__.py:128-[12576] >>>end...
